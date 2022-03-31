@@ -1,0 +1,114 @@
+*{
+    margin:0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container1 {
+    min-height: 95vh;
+    margin:10px;
+    border: 5px solid black;
+    display: flex;
+    position: absolute;
+    
+}
+
+.c2{
+    margin-top: 10px;
+    margin-left: 40px;
+    min-width: 60vh;
+    
+    min-height: 90vh;
+}
+
+.c21{
+    min-height: 40vh;
+    border:2px solid red;
+    
+    text-align: center;
+    background-image: url(./1.gif);
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.c22{
+    display: flex;
+    justify-content: space-between;
+    margin-top:5px;
+    min-height: 50vh;
+    
+    
+}
+
+.c221{
+    border:2px solid red;
+    min-width: 17vh;
+    margin-right: 2px;
+    min-width:24vh ;
+    background-image: url(./2.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.c222{
+    border:2px solid red;
+    min-width: 36vh;
+    background-image: url(./3.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.c3{
+    margin-top: 10px;
+    margin-left: 30px;
+    min-width: 67vh;
+    
+    min-height: 90vh;
+    
+}
+.c31{
+    border: 2px solid green;
+    margin-bottom: 5px;
+    min-width:40vh;
+    min-height:17vh;
+    background-image: url(./4.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.c4{
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+    min-width: 48vh;
+    border: 5px solid pink;
+    
+    max-height: 90vh;
+    background-image: url(./5.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 3vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+}

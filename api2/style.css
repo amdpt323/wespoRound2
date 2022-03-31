@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    margin-top: 30px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    padding: 8px;
+    
+}
+
+button{
+    font-size: 2vh;
+    height: 5vh;
+    border-radius: 30px;
+}
+
+.b2{
+    text-align: center;
+    font-size: 7vh;
+}
